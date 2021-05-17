@@ -7,23 +7,23 @@ Ecommerce website built with Node js, Express js, React js, React Context API, m
 
 ## Install dependencies for client
 ### cd client 
-### `npm install`
+#### `npm install`
 
 ### Connect to mongoDB and add info database in .env
 
 ### Add Paypal Client Id in client/src/components/mainpages/cart/PaypalButton.js
 
 ## Run the client & server with concurrently
-### `npm run dev`
+#### `npm run dev`
 
 ## Run Server Only
-### `npm run server`
+#### `npm run server`
 
 ## Run React Client Only
-### `npm run client`
+#### `npm run client`
 
 ### Server runs on 
-http://localhost:5000 
+#### http://localhost:5000 
 ### Client runs on 
-http://localhost:3000
+#### http://localhost:3000
 
