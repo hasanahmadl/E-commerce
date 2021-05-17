@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+.cart{
+    position: relative;
+    border: 1px solid darkcyan;
+    transform: scaleY(0.98);
+}
+.amount span{
+    color: darkcyan;
+    padding: 0 20px;
+}
+.amount button{
+    width: 40px;
+    height: 40px;
+    border: 1px solid #777;
+}
+.delete{
+    position: absolute;
+    top:0;
+    right: 5px;
+    color: darkblue;
+    font-weight: 900;
+    cursor: pointer;
+}
+.total{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.total h3{
+    color: darkblue;
+}
+
+.email{
+   
+   padding: 10px;
+   border: 1px solid darkcyan;
+   margin-bottom: 50px;
+
+}
+.email p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.email button{
+    margin-bottom: 10px;
+    background: darkcyan;
+    width: 10%;
+    text-align: center;
+    border: 1px solid darkcyan;
+    border-radius: 20px;
+   margin-left: 20px;
+}
+
+.email a{
+    text-decoration: none;
+    color: #fff;
+}
+
